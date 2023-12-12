@@ -1,0 +1,6 @@
+{
+  "package": "deleteOldProfiles",
+  "version": "1.0",
+  "author": "Mudlet",
+  "title": "Remove excess backup files."
+}

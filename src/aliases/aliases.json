@@ -1,0 +1,6 @@
+[
+  {
+    "name": "delete old profiles",
+    "regex": "^delete old (profiles|maps|modules)(?: (\\d+))?$"
+  }
+]
